@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yatzeee123 You can call me Kyle
+- 👋 Hi, I’m @yatzeee123 You can call me Leo
 - 👀 I’m interested in python, react and anything cool built with them
 - 🌱 I’m currently learning all I can get my hands on.
 
